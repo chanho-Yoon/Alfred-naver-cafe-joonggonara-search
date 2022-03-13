@@ -1,4 +1,8 @@
-# Alfred 네이버 중고나라 상품 검색할 수 있는 워크플로우
+# Alfred - Joonggonara Naver Cafe Product Search Workflow
+
+> 네이버 중고나라 상품을 검색할 수 있는 Alfred workflow
+
+## preview
 
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/54402926/158046301-76048148-8bb0-4fc4-b274-a0e9b16ec595.gif)
 
